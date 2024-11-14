@@ -49,7 +49,9 @@ GLM4全工具模型进一步对齐以理解用户意图，并自主决定何时�
 
 ![](./docs/GLM系列语言、代码、视觉和代理模型的时间线.png)  
 
-图1：GLM系列语言、代码、视觉和代理模型的时间线。本报告主要关注语言模型，即ChatGLM。APIs可在 https://bigmodel.cn 公开获取，开放模型可通过 https://github.com/THUDM 访问。
+图1：GLM系列语言、代码、视觉和代理模型的时间线。
+
+本报告主要关注语言模型，即ChatGLM。APIs可在 https://bigmodel.cn 公开获取，开放模型可通过 https://github.com/THUDM 访问。
 
 
 ## 1 介绍:
